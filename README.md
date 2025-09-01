@@ -1,2 +1,5 @@
 # Cacao-Carbon-Nexus
-A biophysical and economic model of agricultural waste for smallholder : case of cacao
+A biophysical and economic model of agricultural waste for smallholder : case study on cacao
+
+
+
