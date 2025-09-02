@@ -1,6 +1,8 @@
 # TOPIC
 Cacao-Carbon-Nexu A biophysical and economic model of agricultural waste for smallholder : case study on cacao
 
+This project is a decarbonization initiative designed for the agricultural sector, specifically targeting smallholder
+
 # PROBLEMATIQUE
 For those have once interacted with famers specially in cacao sector, they may have noticed that famers are interested in only the beans. Some byproducts like cocoa puds husk have been left on the farms in pile. They are called waste or no needed. After few days, those socalled waste start being a source of methan which is realeased in atmosphere. whislt smalholders are facing low income, fertilizer and climate change drawback. 
 
@@ -12,6 +14,11 @@ State 2 :  Smalholders are avoiding the state 1 by composting the cocoa pud whic
 State 3 : -they  could sell the Carbon credis as a second source of revenue, 
           - they could decrease the cost production through the fertilizer
           - and the whole world is gaining by reducing atmosphere greenhouse gaz
+
+1. Quantify the physical system ( estime the resulting byproducts) : Pod-to-bean ratio
+2.   biophisical process similation : avoided methane + sequestration
+3. measure environment impact : avoided pollution 
+4. modeling the finacial state based on carbon credit revenue and sustainability
 
 
 
